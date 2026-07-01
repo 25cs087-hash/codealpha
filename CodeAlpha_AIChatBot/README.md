@@ -53,6 +53,3 @@ Bot : Thank you! Have a nice day.
 - NLP support
 - Login systyem
 
-## 👩‍💻 Author
-
-Developed as part of the CodeAlpha Java Programming Internship.
